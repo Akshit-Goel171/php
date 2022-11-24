@@ -1,0 +1,55 @@
+
+
+
+.title{
+    font-size: 140px;
+    text-align: center;
+    margin: 0px;
+    color: blue;
+    opacity:0.8;
+    font-weight: bold;
+    font-family: arial;
+    letter-spacing: 3px;
+}
+.form_head{
+    margin-top: 3px;
+    height: 70px;
+    width: 99%;
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    margin-left: 0.5%;
+    word-spacing: 7px;
+    text-align: center;
+    align-items: center;
+}
+.meta{
+    margin-top:3px;
+    width:700px;
+    height:300px;
+}
+
+.form-group{
+    margin-bottom: 15px;
+}
+
+.form-group-bio{
+    height: 100px;
+}
+
+.div_form{
+    margin:40px;
+    font-size: 24px;
+}
+.buttons_sub{
+    margin-top:4px;
+}
+
+
+
+
+/*------------------------------------------------ footer css ------------------------------------------------------ */
+.upd{
+    text-align: center;
+    font-size: 40px;
+}
